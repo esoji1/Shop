@@ -1,0 +1,2535 @@
+fileFormatVersion: 2
+guid: 627ecc61009145248b8077e5d5b90cda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6469755700526602426
+    second: village_assets_0
+  - first:
+      213: 2429482816927775742
+    second: village_assets_1
+  - first:
+      213: 6327466931259707459
+    second: village_assets_2
+  - first:
+      213: 1244362495026956377
+    second: village_assets_3
+  - first:
+      213: -8056451964601342351
+    second: village_assets_4
+  - first:
+      213: 5573148911030714986
+    second: village_assets_5
+  - first:
+      213: 6469809517196816439
+    second: village_assets_6
+  - first:
+      213: 4399368383197687651
+    second: village_assets_7
+  - first:
+      213: -3677912053377973908
+    second: village_assets_8
+  - first:
+      213: -6094000132006067803
+    second: village_assets_9
+  - first:
+      213: 8243893816035155194
+    second: village_assets_10
+  - first:
+      213: -7232461169308313416
+    second: village_assets_11
+  - first:
+      213: -9060358390651104174
+    second: village_assets_12
+  - first:
+      213: -7817364569953917904
+    second: village_assets_13
+  - first:
+      213: 8788942751594755748
+    second: village_assets_14
+  - first:
+      213: -6932603722226094848
+    second: village_assets_15
+  - first:
+      213: -9011392575477463160
+    second: village_assets_16
+  - first:
+      213: 3263741599141554690
+    second: village_assets_17
+  - first:
+      213: 4910222955571350378
+    second: village_assets_18
+  - first:
+      213: 2812864286432834732
+    second: village_assets_19
+  - first:
+      213: 4453344587647457546
+    second: village_assets_20
+  - first:
+      213: 18200986202928995
+    second: village_assets_21
+  - first:
+      213: -3070398450546237519
+    second: village_assets_22
+  - first:
+      213: 7121215343777200670
+    second: village_assets_23
+  - first:
+      213: 6128420447434289364
+    second: village_assets_24
+  - first:
+      213: -1162137306347512742
+    second: village_assets_25
+  - first:
+      213: -2700810227838316205
+    second: village_assets_26
+  - first:
+      213: -8731716364776414839
+    second: village_assets_27
+  - first:
+      213: -3902638058265656248
+    second: village_assets_28
+  - first:
+      213: -7548545788877247647
+    second: village_assets_29
+  - first:
+      213: -1304253607561328576
+    second: village_assets_30
+  - first:
+      213: 8100288583017026566
+    second: village_assets_31
+  - first:
+      213: 9152653411518991850
+    second: village_assets_32
+  - first:
+      213: 7586894237734159903
+    second: village_assets_33
+  - first:
+      213: 4973859567969394616
+    second: village_assets_34
+  - first:
+      213: 6231506986849767341
+    second: village_assets_35
+  - first:
+      213: -2854102639146801521
+    second: village_assets_36
+  - first:
+      213: -5962217440479947852
+    second: village_assets_37
+  - first:
+      213: 2212094622674666399
+    second: village_assets_38
+  - first:
+      213: 3168785695150832133
+    second: village_assets_39
+  - first:
+      213: 1407500352615823774
+    second: village_assets_40
+  - first:
+      213: 4383652670827901860
+    second: village_assets_41
+  - first:
+      213: 1379323267671843385
+    second: village_assets_42
+  - first:
+      213: -1690132575891235124
+    second: village_assets_43
+  - first:
+      213: 321606820611976758
+    second: village_assets_44
+  - first:
+      213: -5788703200634844835
+    second: village_assets_45
+  - first:
+      213: -9139800335948536552
+    second: village_assets_46
+  - first:
+      213: -773198718981312236
+    second: village_assets_47
+  - first:
+      213: 4910204389227105293
+    second: village_assets_48
+  - first:
+      213: 3532614237849336951
+    second: village_assets_49
+  - first:
+      213: -4959128784755581321
+    second: village_assets_50
+  - first:
+      213: 6470832685934310968
+    second: village_assets_51
+  - first:
+      213: -8378112920979680008
+    second: village_assets_52
+  - first:
+      213: 3702713169188165549
+    second: village_assets_53
+  - first:
+      213: -7446335763957789483
+    second: village_assets_54
+  - first:
+      213: 9050595486897674637
+    second: village_assets_55
+  - first:
+      213: 6341926082381820950
+    second: village_assets_56
+  - first:
+      213: -5484156190238092103
+    second: village_assets_57
+  - first:
+      213: 9035300980874011822
+    second: village_assets_58
+  - first:
+      213: -1732004010013521955
+    second: village_assets_59
+  - first:
+      213: 1309607130213758306
+    second: village_assets_60
+  - first:
+      213: -6304639330650882511
+    second: village_assets_61
+  - first:
+      213: 307510781780815704
+    second: village_assets_62
+  - first:
+      213: 6836996893142782299
+    second: village_assets_63
+  - first:
+      213: -1935695517566154506
+    second: village_assets_64
+  - first:
+      213: -489056860560171893
+    second: village_assets_65
+  - first:
+      213: 3688452701119234047
+    second: village_assets_66
+  - first:
+      213: -7657647921091482237
+    second: village_assets_67
+  - first:
+      213: -4720443296888292232
+    second: village_assets_68
+  - first:
+      213: 3144865524970522313
+    second: village_assets_69
+  - first:
+      213: 1909050433416872289
+    second: village_assets_70
+  - first:
+      213: -7010756860549367593
+    second: village_assets_71
+  - first:
+      213: 2030269512537244889
+    second: village_assets_72
+  - first:
+      213: -7716012729890669438
+    second: village_assets_73
+  - first:
+      213: 4929514690606949596
+    second: village_assets_74
+  - first:
+      213: 6357168042838402845
+    second: village_assets_75
+  - first:
+      213: 1909850001026804286
+    second: village_assets_76
+  - first:
+      213: -1974765885298375812
+    second: village_assets_77
+  - first:
+      213: -7948974097020303774
+    second: village_assets_78
+  - first:
+      213: 2527147504200020247
+    second: village_assets_79
+  - first:
+      213: 7966817373683478456
+    second: village_assets_80
+  - first:
+      213: 5857434488468474647
+    second: village_assets_81
+  - first:
+      213: -8535300061195311245
+    second: village_assets_82
+  - first:
+      213: 3656161654272136206
+    second: village_assets_83
+  - first:
+      213: 9102832486013442514
+    second: village_assets_84
+  - first:
+      213: -4121400828740953630
+    second: village_assets_85
+  - first:
+      213: -3454160305435161719
+    second: village_assets_86
+  - first:
+      213: -8325358044398762520
+    second: village_assets_87
+  - first:
+      213: 2871970309932419172
+    second: village_assets_88
+  - first:
+      213: 5954335367590151903
+    second: village_assets_89
+  - first:
+      213: 1865038466553575228
+    second: village_assets_90
+  - first:
+      213: -3262475521147717623
+    second: village_assets_91
+  - first:
+      213: 2381163249960354209
+    second: village_assets_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village_assets_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 286
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab85279088039c950800000000000000
+      internalID: 6469755700526602426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 249
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb35e200c147b120800000000000000
+      internalID: 2429482816927775742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 249
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34014cd46adafc750800000000000000
+      internalID: 6327466931259707459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 249
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95886e7a81dd44110800000000000000
+      internalID: 1244362495026956377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17660f38f9bb13090800000000000000
+      internalID: -8056451964601342351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 299
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a624752286dc75d40800000000000000
+      internalID: 5573148911030714986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 279
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73035f43a7169c950800000000000000
+      internalID: 6469809517196816439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f25945c32bd0d30800000000000000
+      internalID: 4399368383197687651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61474f497e65fcc0800000000000000
+      internalID: -3677912053377973908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 174
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a14896da23cd6ba0800000000000000
+      internalID: -6094000132006067803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 174
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc90d66fb1386270800000000000000
+      internalID: 8243893816035155194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 174
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8529fb2e221ab90800000000000000
+      internalID: -7232461169308313416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254d28b2c04234280800000000000000
+      internalID: -9060358390651104174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 201
+        width: 75
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342c208754238390800000000000000
+      internalID: -7817364569953917904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_14
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6bc04edd898f970800000000000000
+      internalID: 8788942751594755748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 114
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da92825a17acf90800000000000000
+      internalID: -6932603722226094848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 114
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887c21f623a11f280800000000000000
+      internalID: -9011392575477463160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a6f7f31b32b4d20800000000000000
+      internalID: 3263741599141554690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 119
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b8cca33cd942440800000000000000
+      internalID: 4910222955571350378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 119
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca436325a2d490720800000000000000
+      internalID: 2812864286432834732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 119
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a099221ce457dcd30800000000000000
+      internalID: 4453344587647457546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 118
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ff2553b9a04000800000000000000
+      internalID: 18200986202928995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 118
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf184c70e0c365d0800000000000000
+      internalID: -3070398450546237519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 116
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab6e610a3a3d260800000000000000
+      internalID: 7121215343777200670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_24
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 116
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bf8b5de58c0550800000000000000
+      internalID: 6128420447434289364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 116
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5de2f6424fdfe0800000000000000
+      internalID: -1162137306347512742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 118
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35194f3486bc48ad0800000000000000
+      internalID: -2700810227838316205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 119
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98169069a36b2d680800000000000000
+      internalID: -8731716364776414839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c722fc5b07d9c0800000000000000
+      internalID: -3902638058265656248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b6333599d2e3790800000000000000
+      internalID: -7548545788877247647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 72
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480940114c56ede0800000000000000
+      internalID: -1304253607561328576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 72
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d1e09c810a6070800000000000000
+      internalID: 8100288583017026566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed4bd1f8c1c40f70800000000000000
+      internalID: 9152653411518991850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 72
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f164a94bc101a4960800000000000000
+      internalID: 7586894237734159903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 71
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf5e77ace2b60540800000000000000
+      internalID: 4973859567969394616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 71
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf8b8ea692ca7650800000000000000
+      internalID: 6231506986849767341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 71
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86662975c03468d0800000000000000
+      internalID: -2854102639146801521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_37
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 71
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3dd8ab3d2f14da0800000000000000
+      internalID: -5962217440479947852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_38
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 76
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f934312d650f2be10800000000000000
+      internalID: 2212094622674666399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50afdc00dc9c9fb20800000000000000
+      internalID: 3168785695150832133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9937ea0d12788310800000000000000
+      internalID: 1407500352615823774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 33
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3b367e0ecd5dc30800000000000000
+      internalID: 4383652670827901860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932e2083437542310800000000000000
+      internalID: 1379323267671843385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 34
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccedfae70617b88e0800000000000000
+      internalID: -1690132575891235124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e6beb03b3967400800000000000000
+      internalID: 321606820611976758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d594effdb156aafa0800000000000000
+      internalID: -5788703200634844835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 34
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815aac9e408e82180800000000000000
+      internalID: -9139800335948536552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411f4569cdb0545f0800000000000000
+      internalID: -773198718981312236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 34
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c027a60ec842440800000000000000
+      internalID: 4910204389227105293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 34
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c3f77ceed560130800000000000000
+      internalID: 3532614237849336951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e9a3515a2ad2bb0800000000000000
+      internalID: -4959128784755581321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 34
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f91e3b040dc950800000000000000
+      internalID: 6470832685934310968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_52
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 34
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f455e000b6fabb80800000000000000
+      internalID: -8378112920979680008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 34
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71f92720ea26330800000000000000
+      internalID: 3702713169188165549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc4207331d49a890800000000000000
+      internalID: -7446335763957789483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d891a4aa4ac2a9d70800000000000000
+      internalID: 9050595486897674637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_56
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6143724cb2c030850800000000000000
+      internalID: 6341926082381820950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b45914500d54e3b0800000000000000
+      internalID: -5484156190238092103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ebbbfe56d36d70800000000000000
+      internalID: 9035300980874011822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_59
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd78799878fa6f7e0800000000000000
+      internalID: -1732004010013521955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 35
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b5bf0fb8ac2210800000000000000
+      internalID: 1309607130213758306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 35
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ef893aeeb6188a0800000000000000
+      internalID: -6304639330650882511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_62
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 35
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe5a04d6f744400800000000000000
+      internalID: 307510781780815704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_63
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 35
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51993a4374e1ee50800000000000000
+      internalID: 6836996893142782299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_64
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 35
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8472abe270325e0800000000000000
+      internalID: -1935695517566154506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cd75f50658639f0800000000000000
+      internalID: -489056860560171893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_66
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffba0d7034003330800000000000000
+      internalID: 3688452701119234047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d6558a9c19ab590800000000000000
+      internalID: -7657647921091482237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_68
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c799ad4dd9d7eb0800000000000000
+      internalID: -4720443296888292232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_69
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c68d32688ec4ab20800000000000000
+      internalID: 3144865524970522313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614e1e214f4e7a10800000000000000
+      internalID: 1909050433416872289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_71
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 13
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d87258a7c9c4be90800000000000000
+      internalID: -7010756860549367593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_72
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d486156d57fc2c10800000000000000
+      internalID: 2030269512537244889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 13
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c7978ad473be490800000000000000
+      internalID: -7716012729890669438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 13
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd462b05e77296440800000000000000
+      internalID: 4929514690606949596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 13
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1729da37a2393850800000000000000
+      internalID: 6357168042838402845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_76
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 13
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a6b750576218a10800000000000000
+      internalID: 1909850001026804286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730b3cd3e83894e0800000000000000
+      internalID: -1974765885298375812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_78
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 13
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c25a9c229fa190800000000000000
+      internalID: -7948974097020303774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_79
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 13
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7117bd2044b321320800000000000000
+      internalID: 2527147504200020247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_80
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf60dcf032df8e60800000000000000
+      internalID: 7966817373683478456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b094c12a9c94150800000000000000
+      internalID: 5857434488468474647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3776519f0d58c8980800000000000000
+      internalID: -8535300061195311245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e049b4447ab4db230800000000000000
+      internalID: 3656161654272136206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d997bacae1c35e70800000000000000
+      internalID: 9102832486013442514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e915e948c7ddc6c0800000000000000
+      internalID: -4121400828740953630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_86
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b484dc08b5010d0800000000000000
+      internalID: -3454160305435161719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_87
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5cbafd7f2667c80800000000000000
+      internalID: -8325358044398762520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_88
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 15
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688df0d7c94bd720800000000000000
+      internalID: 2871970309932419172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_89
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd681ca287c02a250800000000000000
+      internalID: 5954335367590151903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_90
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 15
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c377d5b9a92f1e910800000000000000
+      internalID: 1865038466553575228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_91
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90835918ccb59b2d0800000000000000
+      internalID: -3262475521147717623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_assets_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a10a122c579b0120800000000000000
+      internalID: 2381163249960354209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      village_assets_0: 6469755700526602426
+      village_assets_1: 2429482816927775742
+      village_assets_10: 8243893816035155194
+      village_assets_11: -7232461169308313416
+      village_assets_12: -9060358390651104174
+      village_assets_13: -7817364569953917904
+      village_assets_14: 8788942751594755748
+      village_assets_15: -6932603722226094848
+      village_assets_16: -9011392575477463160
+      village_assets_17: 3263741599141554690
+      village_assets_18: 4910222955571350378
+      village_assets_19: 2812864286432834732
+      village_assets_2: 6327466931259707459
+      village_assets_20: 4453344587647457546
+      village_assets_21: 18200986202928995
+      village_assets_22: -3070398450546237519
+      village_assets_23: 7121215343777200670
+      village_assets_24: 6128420447434289364
+      village_assets_25: -1162137306347512742
+      village_assets_26: -2700810227838316205
+      village_assets_27: -8731716364776414839
+      village_assets_28: -3902638058265656248
+      village_assets_29: -7548545788877247647
+      village_assets_3: 1244362495026956377
+      village_assets_30: -1304253607561328576
+      village_assets_31: 8100288583017026566
+      village_assets_32: 9152653411518991850
+      village_assets_33: 7586894237734159903
+      village_assets_34: 4973859567969394616
+      village_assets_35: 6231506986849767341
+      village_assets_36: -2854102639146801521
+      village_assets_37: -5962217440479947852
+      village_assets_38: 2212094622674666399
+      village_assets_39: 3168785695150832133
+      village_assets_4: -8056451964601342351
+      village_assets_40: 1407500352615823774
+      village_assets_41: 4383652670827901860
+      village_assets_42: 1379323267671843385
+      village_assets_43: -1690132575891235124
+      village_assets_44: 321606820611976758
+      village_assets_45: -5788703200634844835
+      village_assets_46: -9139800335948536552
+      village_assets_47: -773198718981312236
+      village_assets_48: 4910204389227105293
+      village_assets_49: 3532614237849336951
+      village_assets_5: 5573148911030714986
+      village_assets_50: -4959128784755581321
+      village_assets_51: 6470832685934310968
+      village_assets_52: -8378112920979680008
+      village_assets_53: 3702713169188165549
+      village_assets_54: -7446335763957789483
+      village_assets_55: 9050595486897674637
+      village_assets_56: 6341926082381820950
+      village_assets_57: -5484156190238092103
+      village_assets_58: 9035300980874011822
+      village_assets_59: -1732004010013521955
+      village_assets_6: 6469809517196816439
+      village_assets_60: 1309607130213758306
+      village_assets_61: -6304639330650882511
+      village_assets_62: 307510781780815704
+      village_assets_63: 6836996893142782299
+      village_assets_64: -1935695517566154506
+      village_assets_65: -489056860560171893
+      village_assets_66: 3688452701119234047
+      village_assets_67: -7657647921091482237
+      village_assets_68: -4720443296888292232
+      village_assets_69: 3144865524970522313
+      village_assets_7: 4399368383197687651
+      village_assets_70: 1909050433416872289
+      village_assets_71: -7010756860549367593
+      village_assets_72: 2030269512537244889
+      village_assets_73: -7716012729890669438
+      village_assets_74: 4929514690606949596
+      village_assets_75: 6357168042838402845
+      village_assets_76: 1909850001026804286
+      village_assets_77: -1974765885298375812
+      village_assets_78: -7948974097020303774
+      village_assets_79: 2527147504200020247
+      village_assets_8: -3677912053377973908
+      village_assets_80: 7966817373683478456
+      village_assets_81: 5857434488468474647
+      village_assets_82: -8535300061195311245
+      village_assets_83: 3656161654272136206
+      village_assets_84: 9102832486013442514
+      village_assets_85: -4121400828740953630
+      village_assets_86: -3454160305435161719
+      village_assets_87: -8325358044398762520
+      village_assets_88: 2871970309932419172
+      village_assets_89: 5954335367590151903
+      village_assets_9: -6094000132006067803
+      village_assets_90: 1865038466553575228
+      village_assets_91: -3262475521147717623
+      village_assets_92: 2381163249960354209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

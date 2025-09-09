@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 3d9bce5857f15cb42b305dc37df0b601
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3147766290711148694
+    second: old_man_spritesheet_0
+  - first:
+      213: -8148988334520353730
+    second: old_man_spritesheet_1
+  - first:
+      213: 953183164479785077
+    second: old_man_spritesheet_2
+  - first:
+      213: 6735753508999844206
+    second: old_man_spritesheet_3
+  - first:
+      213: 1010443898326151828
+    second: old_man_spritesheet_4
+  - first:
+      213: 4995231683572811792
+    second: old_man_spritesheet_5
+  - first:
+      213: -5276577802464695106
+    second: old_man_spritesheet_6
+  - first:
+      213: 6935418936911806843
+    second: old_man_spritesheet_7
+  - first:
+      213: -4459653159228271125
+    second: old_man_spritesheet_8
+  - first:
+      213: -3578881614717122773
+    second: old_man_spritesheet_9
+  - first:
+      213: 1079575859969069095
+    second: old_man_spritesheet_10
+  - first:
+      213: -5608232286089179081
+    second: old_man_spritesheet_11
+  - first:
+      213: -5086835107721399864
+    second: old_man_spritesheet_12
+  - first:
+      213: -1784948197878740684
+    second: old_man_spritesheet_13
+  - first:
+      213: -9218720637493339862
+    second: old_man_spritesheet_14
+  - first:
+      213: -6922833363281359565
+    second: old_man_spritesheet_15
+  - first:
+      213: 4589408051631056643
+    second: old_man_spritesheet_16
+  - first:
+      213: 4124887309357947917
+    second: old_man_spritesheet_17
+  - first:
+      213: -2474141748584667233
+    second: old_man_spritesheet_18
+  - first:
+      213: 1815276848963346296
+    second: old_man_spritesheet_19
+  - first:
+      213: 3624564334086105351
+    second: old_man_spritesheet_20
+  - first:
+      213: -785349223155958873
+    second: old_man_spritesheet_21
+  - first:
+      213: -3106997135445523378
+    second: old_man_spritesheet_22
+  - first:
+      213: 623928898686467695
+    second: old_man_spritesheet_23
+  - first:
+      213: 4680133702498991964
+    second: old_man_spritesheet_24
+  - first:
+      213: -1001723000196070133
+    second: old_man_spritesheet_25
+  - first:
+      213: -8029662745931830362
+    second: old_man_spritesheet_26
+  - first:
+      213: 1045599967028720587
+    second: old_man_spritesheet_27
+  - first:
+      213: -1856469756011779591
+    second: old_man_spritesheet_28
+  - first:
+      213: 5516715946198757738
+    second: old_man_spritesheet_29
+  - first:
+      213: -4264283859596348758
+    second: old_man_spritesheet_30
+  - first:
+      213: -6545218172804538596
+    second: old_man_spritesheet_31
+  - first:
+      213: -8869535118758117621
+    second: old_man_spritesheet_32
+  - first:
+      213: 7896633694279204509
+    second: old_man_spritesheet_33
+  - first:
+      213: -7278944400711746207
+    second: old_man_spritesheet_34
+  - first:
+      213: -770217097825129069
+    second: old_man_spritesheet_35
+  - first:
+      213: -2687208891701791691
+    second: old_man_spritesheet_36
+  - first:
+      213: -8131057161420396026
+    second: old_man_spritesheet_37
+  - first:
+      213: -4877620314693638540
+    second: old_man_spritesheet_38
+  - first:
+      213: 4472206432478892974
+    second: old_man_spritesheet_39
+  - first:
+      213: 1516702880623892139
+    second: old_man_spritesheet_40
+  - first:
+      213: -7091677861308293778
+    second: old_man_spritesheet_41
+  - first:
+      213: 8835313049661218690
+    second: old_man_spritesheet_42
+  - first:
+      213: -224198773910317796
+    second: old_man_spritesheet_43
+  - first:
+      213: -2155014474005704919
+    second: old_man_spritesheet_44
+  - first:
+      213: -7119007873511950211
+    second: old_man_spritesheet_45
+  - first:
+      213: 3913498865659095140
+    second: old_man_spritesheet_46
+  - first:
+      213: -8534539010702675786
+    second: old_man_spritesheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old_man_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6786367c33e054d0800000000000000
+      internalID: -3147766290711148694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 240
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cbc12f84af8ee80800000000000000
+      internalID: -8148988334520353730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57843b4b9036a3d00800000000000000
+      internalID: 953183164479785077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 240
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61d68ef0243a7d50800000000000000
+      internalID: 6735753508999844206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492f0393f51d50e00800000000000000
+      internalID: 1010443898326151828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 240
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018422610c0a25540800000000000000
+      internalID: 4995231683572811792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc6166f174d5c6b0800000000000000
+      internalID: -5276577802464695106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71452717ce8f3060800000000000000
+      internalID: 6935418936911806843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be510c674112c12c0800000000000000
+      internalID: -4459653159228271125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 240
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270c951222455ec0800000000000000
+      internalID: -3578881614717122773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7201b89568c6bfe00800000000000000
+      internalID: 1079575859969069095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 145
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73017c1137e8b22b0800000000000000
+      internalID: -5608232286089179081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 192
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1b745bb6ee769b0800000000000000
+      internalID: -5086835107721399864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439c6f232179a37e0800000000000000
+      internalID: -1784948197878740684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2995ae4c66801080800000000000000
+      internalID: -9218720637493339862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 145
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d446e1cb72def90800000000000000
+      internalID: -6922833363281359565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 192
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30769c6ae4ad0bf30800000000000000
+      internalID: 4589408051631056643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 192
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c1ccc372b8e3930800000000000000
+      internalID: 4124887309357947917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 144
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97a5af20351aadd0800000000000000
+      internalID: -2474141748584667233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f53772da8213910800000000000000
+      internalID: 1815276848963346296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709a0cede0a0d4230800000000000000
+      internalID: 3624564334086105351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 143
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abf821ea01e915f0800000000000000
+      internalID: -785349223155958873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 144
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e440d9f119ab1e4d0800000000000000
+      internalID: -3106997135445523378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 96
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ebe431704a8a800800000000000000
+      internalID: 623928898686467695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 144
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f39c65ecc23f040800000000000000
+      internalID: 4680133702498991964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 143
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0589f91d3a2912f0800000000000000
+      internalID: -1001723000196070133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abab8a8648e09090800000000000000
+      internalID: -8029662745931830362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc338e351a7b28e00800000000000000
+      internalID: 1045599967028720587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f969a8c79e7c36e0800000000000000
+      internalID: -1856469756011779591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 97
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61f8eb9cef4f8c40800000000000000
+      internalID: 5516715946198757738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 95
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2f35f3c6832d4c0800000000000000
+      internalID: -4264283859596348758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 98
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fdd88ffb6ba25a0800000000000000
+      internalID: -6545218172804538596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ff1936dc419e480800000000000000
+      internalID: -8869535118758117621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e74ecb18a769d60800000000000000
+      internalID: 7896633694279204509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16df1cf02aefbfa90800000000000000
+      internalID: -7278944400711746207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d633c51a3af45f0800000000000000
+      internalID: -770217097825129069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534f7dc10cd15bad0800000000000000
+      internalID: -2687208891701791691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a2425879ea82f80800000000000000
+      internalID: -8131057161420396026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476e471aa263f4cb0800000000000000
+      internalID: -4877620314693638540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea31f1a3e08701e30800000000000000
+      internalID: 4472206432478892974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6166deb396c0510800000000000000
+      internalID: 1516702880623892139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d9737fe8c459d90800000000000000
+      internalID: -7091677861308293778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f1e6c38665d9a70800000000000000
+      internalID: 8835313049661218690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 48
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c155ff9276c73ecf0800000000000000
+      internalID: -224198773910317796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 48
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f801fe0c9d712e0800000000000000
+      internalID: -2155014474005704919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d787c12ae04343d90800000000000000
+      internalID: -7119007873511950211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4682184db7a8f4630800000000000000
+      internalID: 3913498865659095140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b07a59dcf93f8980800000000000000
+      internalID: -8534539010702675786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      old_man_spritesheet_0: -3147766290711148694
+      old_man_spritesheet_1: -8148988334520353730
+      old_man_spritesheet_10: 1079575859969069095
+      old_man_spritesheet_11: -5608232286089179081
+      old_man_spritesheet_12: -5086835107721399864
+      old_man_spritesheet_13: -1784948197878740684
+      old_man_spritesheet_14: -9218720637493339862
+      old_man_spritesheet_15: -6922833363281359565
+      old_man_spritesheet_16: 4589408051631056643
+      old_man_spritesheet_17: 4124887309357947917
+      old_man_spritesheet_18: -2474141748584667233
+      old_man_spritesheet_19: 1815276848963346296
+      old_man_spritesheet_2: 953183164479785077
+      old_man_spritesheet_20: 3624564334086105351
+      old_man_spritesheet_21: -785349223155958873
+      old_man_spritesheet_22: -3106997135445523378
+      old_man_spritesheet_23: 623928898686467695
+      old_man_spritesheet_24: 4680133702498991964
+      old_man_spritesheet_25: -1001723000196070133
+      old_man_spritesheet_26: -8029662745931830362
+      old_man_spritesheet_27: 1045599967028720587
+      old_man_spritesheet_28: -1856469756011779591
+      old_man_spritesheet_29: 5516715946198757738
+      old_man_spritesheet_3: 6735753508999844206
+      old_man_spritesheet_30: -4264283859596348758
+      old_man_spritesheet_31: -6545218172804538596
+      old_man_spritesheet_32: -8869535118758117621
+      old_man_spritesheet_33: 7896633694279204509
+      old_man_spritesheet_34: -7278944400711746207
+      old_man_spritesheet_35: -770217097825129069
+      old_man_spritesheet_36: -2687208891701791691
+      old_man_spritesheet_37: -8131057161420396026
+      old_man_spritesheet_38: -4877620314693638540
+      old_man_spritesheet_39: 4472206432478892974
+      old_man_spritesheet_4: 1010443898326151828
+      old_man_spritesheet_40: 1516702880623892139
+      old_man_spritesheet_41: -7091677861308293778
+      old_man_spritesheet_42: 8835313049661218690
+      old_man_spritesheet_43: -224198773910317796
+      old_man_spritesheet_44: -2155014474005704919
+      old_man_spritesheet_45: -7119007873511950211
+      old_man_spritesheet_46: 3913498865659095140
+      old_man_spritesheet_47: -8534539010702675786
+      old_man_spritesheet_5: 4995231683572811792
+      old_man_spritesheet_6: -5276577802464695106
+      old_man_spritesheet_7: 6935418936911806843
+      old_man_spritesheet_8: -4459653159228271125
+      old_man_spritesheet_9: -3578881614717122773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
